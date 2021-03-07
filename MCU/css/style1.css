@@ -1,0 +1,98 @@
+
+        #navbar {
+            left: 50%;
+            margin-left: -50px;
+            position: absolute;
+            text-align: center;
+        }
+
+     
+
+        /*dropdown button*/
+
+        .dropbtn {
+            background-color: #f1f1f1;
+            border: none;
+            color: white;
+            font-size: 16px;
+            padding: 16px;
+        }
+
+        /**/
+
+        /*the container needed to position the dropdown content*/
+
+        .dropdown {
+            display: inline-block;
+            position: relative;
+        }
+
+        /*dropdown content*/
+
+        .dropdown-content {
+            background-color: #f1f1f1;
+            box-shadow: 8px 16px rgba(0, 0, 0, 0);
+            display: none;
+            min-width: 160px;
+            position: absolute;
+            z-index: 1;
+        }
+
+        /*links inside dropdown*/
+
+        .dropdown-content a {
+            color: black;
+            display: block;
+            padding: 12px 6px;
+            text-decoration: none;
+        }
+
+        /*change color of dropdown links onn hover*/
+
+        .dropdown-content a:hover { background-color: #ddd; }
+
+        /*show the dropdown menu on hover*/
+
+        .dropdown:hover .dropdown-content { display: block; }
+
+        /*dropdown color when shown*/
+
+        .dropdown:hover .dropbtn { background-color: white; }
+
+        .col-md-6 { width: 50%; }
+
+
+   #goals {
+           
+            left: 70%;
+            margin-left: -30px;
+            text-align: center;
+        }
+
+        #find {
+           
+            left: 70%;
+            margin-left: -30px;
+            text-align: center;
+        }
+
+        .header {
+           
+            left: 70%;
+            margin-left: -30px;
+            text-align: center;
+        }
+
+        .description {
+             text-align: center;
+        }
+
+        .gallery {
+            text-align: ;
+        }
+
+#table {
+            margin-left:auto; 
+            margin-right:auto;
+        
+}
